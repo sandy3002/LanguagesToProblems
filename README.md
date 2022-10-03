@@ -24,6 +24,8 @@ Dart
 
 ## Guidelines for this project :
 
+Mention the issue
+
 Fork this repository 
 
 Create your branch , modify your content
